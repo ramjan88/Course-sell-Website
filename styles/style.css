@@ -7,7 +7,7 @@
 
 .header {
   min-height: 110vh;
-  background: linear-gradient(#000, #1e1c1cd4), url(images/1.jpg);
+  background: linear-gradient(#000, #1e1c1cd4), url(/images/1.jpg);
   width: 100%;
   background-position: center;
   background-size: cover;
@@ -221,7 +221,7 @@ about the course contect
 }
 
 .course-syamble {
-  background-image: url(images/circle\ pic.png);
+  background-image: url(/images/circle\ pic.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 300px;
@@ -370,7 +370,7 @@ client matter
 }
 
 .product-image1 {
-  background-image: url("images/product.jpg");
+  background-image: url("/images/product.jpg");
   background-position: center;
   background-size: cover;
   width: 100%;
@@ -391,7 +391,7 @@ client matter
 }
 
 .product-image2 {
-  background-image: url("images/product2.jpg");
+  background-image: url("/images/product2.jpg");
   color: white;
   background-position: center;
   background-size: cover;
@@ -413,7 +413,7 @@ client matter
 }
 
 .product-image3 {
-  background-image: url("images/product3.jpg");
+  background-image: url("/images/product3.jpg");
   color: white;
   background-position: center;
   background-size: cover;
@@ -435,7 +435,7 @@ client matter
 }
 
 .product-image4 {
-  background-image: url("images/product4.jpg");
+  background-image: url("/images/product4.jpg");
   color: white;
   background-position: center;
   background-size: cover;
